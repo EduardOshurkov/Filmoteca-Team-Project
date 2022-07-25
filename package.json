@@ -1,8 +1,8 @@
 {
-  "name": "goit-team-project-js",
+  "name": "Filmoteca-Team-Project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://desertptu4ka.github.io/goit-team-project-js/",
+  "homepage": "https://eduardoshurkov.github.io/Filmoteca-Team-Project/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-team-project-js/"
