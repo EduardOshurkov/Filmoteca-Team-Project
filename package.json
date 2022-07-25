@@ -1,11 +1,11 @@
 {
-  "name": "Filmoteca-team-project",
+  "name": "Filmoteca-Team-Project",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://eduardoshurkov.github.io/Filmoteca-Team-Project/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-team-project-js/"
+    "build": "parcel build src/*.html --public-url /Filmoteca-Team-Project/"
   },
   "repository": {
     "type": "git",
